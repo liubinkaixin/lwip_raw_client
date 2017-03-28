@@ -1,0 +1,9 @@
+..\obj\netdb.o: ..\LWip1.4.1\src\api\netdb.c
+..\obj\netdb.o: ..\LWip1.4.1\src\include\lwip/netdb.h
+..\obj\netdb.o: ..\LWip1.4.1\src\include\lwip/opt.h
+..\obj\netdb.o: ..\LWipAPP\inc\lwipopts.h
+..\obj\netdb.o: ..\LWip1.4.1\src\include\lwip/debug.h
+..\obj\netdb.o: ..\LWip1.4.1\src\include\lwip/arch.h
+..\obj\netdb.o: ..\LWip1.4.1\arch/cc.h
+..\obj\netdb.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\netdb.o: ..\LWip1.4.1\src\include\lwip/opt.h

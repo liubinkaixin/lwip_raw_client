@@ -2,9 +2,9 @@
 ..\obj\main.o: main.h
 ..\obj\main.o: ..\CORE\stm32f4xx.h
 ..\obj\main.o: ..\CORE\core_cm4.h
-..\obj\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\main.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\main.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\main.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\main.o: ..\CORE\core_cm4_simd.h
 ..\obj\main.o: ..\CORE\system_stm32f4xx.h
 ..\obj\main.o: ..\CORE\stm32f4xx_conf.h
@@ -37,8 +37,8 @@
 ..\obj\main.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\main.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\main.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\main.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\main.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\main.o: ..\LWipAPP\inc\lwipopts.h

@@ -4,7 +4,7 @@
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\udp.o: ..\LWip1.4.1\arch/cc.h
-..\obj\udp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\udp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/udp.h
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/pbuf.h
@@ -22,4 +22,4 @@
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/snmp.h
 ..\obj\udp.o: ..\LWip1.4.1\arch/perf.h
 ..\obj\udp.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
-..\obj\udp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\udp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

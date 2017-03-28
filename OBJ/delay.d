@@ -3,9 +3,9 @@
 ..\obj\delay.o: ..\USER\main.h
 ..\obj\delay.o: ..\CORE\stm32f4xx.h
 ..\obj\delay.o: ..\CORE\core_cm4.h
-..\obj\delay.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\delay.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\delay.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\delay.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\delay.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\delay.o: ..\CORE\core_cm4_simd.h
 ..\obj\delay.o: ..\CORE\system_stm32f4xx.h
 ..\obj\delay.o: ..\CORE\stm32f4xx_conf.h
@@ -38,8 +38,8 @@
 ..\obj\delay.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\delay.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\delay.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\delay.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\delay.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\delay.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\delay.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\delay.o: ..\LWipAPP\inc\lwipopts.h

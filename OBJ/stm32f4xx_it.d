@@ -2,9 +2,9 @@
 ..\obj\stm32f4xx_it.o: ..\CORE\stm32f4xx_it.h
 ..\obj\stm32f4xx_it.o: ..\CORE\stm32f4xx.h
 ..\obj\stm32f4xx_it.o: ..\CORE\core_cm4.h
-..\obj\stm32f4xx_it.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\stm32f4xx_it.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\stm32f4xx_it.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\stm32f4xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f4xx_it.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\stm32f4xx_it.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\stm32f4xx_it.o: ..\CORE\core_cm4_simd.h
 ..\obj\stm32f4xx_it.o: ..\CORE\system_stm32f4xx.h
 ..\obj\stm32f4xx_it.o: ..\CORE\stm32f4xx_conf.h
@@ -36,11 +36,11 @@
 ..\obj\stm32f4xx_it.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
 ..\obj\stm32f4xx_it.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\stm32f4xx_it.o: ..\HARDWARE\inc\usart1.h
-..\obj\stm32f4xx_it.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\stm32f4xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\stm32f4xx_it.o: ..\USER\main.h
 ..\obj\stm32f4xx_it.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\stm32f4xx_it.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\stm32f4xx_it.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\stm32f4xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\stm32f4xx_it.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\stm32f4xx_it.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\stm32f4xx_it.o: ..\LWipAPP\inc\lwipopts.h

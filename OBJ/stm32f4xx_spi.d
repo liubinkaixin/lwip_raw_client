@@ -2,9 +2,9 @@
 ..\obj\stm32f4xx_spi.o: ..\FWLIB\inc\stm32f4xx_spi.h
 ..\obj\stm32f4xx_spi.o: ..\CORE\stm32f4xx.h
 ..\obj\stm32f4xx_spi.o: ..\CORE\core_cm4.h
-..\obj\stm32f4xx_spi.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\stm32f4xx_spi.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\stm32f4xx_spi.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\stm32f4xx_spi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f4xx_spi.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\stm32f4xx_spi.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\stm32f4xx_spi.o: ..\CORE\core_cm4_simd.h
 ..\obj\stm32f4xx_spi.o: ..\CORE\system_stm32f4xx.h
 ..\obj\stm32f4xx_spi.o: ..\CORE\stm32f4xx_conf.h

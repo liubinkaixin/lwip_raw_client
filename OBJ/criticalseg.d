@@ -1,9 +1,9 @@
 ..\obj\criticalseg.o: CriticalSeg.c
 ..\obj\criticalseg.o: ..\CORE\stm32f4xx.h
 ..\obj\criticalseg.o: ..\CORE\core_cm4.h
-..\obj\criticalseg.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\criticalseg.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\criticalseg.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\criticalseg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\criticalseg.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\criticalseg.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\criticalseg.o: ..\CORE\core_cm4_simd.h
 ..\obj\criticalseg.o: ..\CORE\system_stm32f4xx.h
 ..\obj\criticalseg.o: ..\CORE\stm32f4xx_conf.h
@@ -39,8 +39,8 @@
 ..\obj\criticalseg.o: ..\USER\main.h
 ..\obj\criticalseg.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\criticalseg.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\criticalseg.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\criticalseg.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\criticalseg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\criticalseg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\criticalseg.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\criticalseg.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\criticalseg.o: ..\LWipAPP\inc\lwipopts.h

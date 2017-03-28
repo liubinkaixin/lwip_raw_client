@@ -4,7 +4,7 @@
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\arch/cc.h
-..\obj\ethernetif.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ethernetif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/def.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/mem.h
@@ -23,9 +23,9 @@
 ..\obj\ethernetif.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
 ..\obj\ethernetif.o: ..\CORE\stm32f4xx.h
 ..\obj\ethernetif.o: ..\CORE\core_cm4.h
-..\obj\ethernetif.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\ethernetif.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\ethernetif.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\ethernetif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ethernetif.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\ethernetif.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\ethernetif.o: ..\CORE\core_cm4_simd.h
 ..\obj\ethernetif.o: ..\CORE\system_stm32f4xx.h
 ..\obj\ethernetif.o: ..\CORE\stm32f4xx_conf.h
@@ -56,7 +56,7 @@
 ..\obj\ethernetif.o: ..\FWLIB\inc\stm32f4xx_dac.h
 ..\obj\ethernetif.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
 ..\obj\ethernetif.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
-..\obj\ethernetif.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\ethernetif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\ethernetif.o: ..\USER\main.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\ethernetif.o: ..\LWip1.4.1\src\include\lwip/udp.h

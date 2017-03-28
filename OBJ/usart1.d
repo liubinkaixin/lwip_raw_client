@@ -2,9 +2,9 @@
 ..\obj\usart1.o: ..\USER\main.h
 ..\obj\usart1.o: ..\CORE\stm32f4xx.h
 ..\obj\usart1.o: ..\CORE\core_cm4.h
-..\obj\usart1.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\usart1.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\usart1.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\usart1.o: ..\CORE\core_cm4_simd.h
 ..\obj\usart1.o: ..\CORE\system_stm32f4xx.h
 ..\obj\usart1.o: ..\CORE\stm32f4xx_conf.h
@@ -37,8 +37,8 @@
 ..\obj\usart1.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\usart1.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\usart1.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\usart1.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\usart1.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\usart1.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\usart1.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\usart1.o: ..\LWipAPP\inc\lwipopts.h

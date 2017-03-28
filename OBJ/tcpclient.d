@@ -3,9 +3,9 @@
 ..\obj\tcpclient.o: ..\USER\main.h
 ..\obj\tcpclient.o: ..\CORE\stm32f4xx.h
 ..\obj\tcpclient.o: ..\CORE\core_cm4.h
-..\obj\tcpclient.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\tcpclient.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\tcpclient.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\tcpclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tcpclient.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\tcpclient.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\tcpclient.o: ..\CORE\core_cm4_simd.h
 ..\obj\tcpclient.o: ..\CORE\system_stm32f4xx.h
 ..\obj\tcpclient.o: ..\CORE\stm32f4xx_conf.h
@@ -38,8 +38,8 @@
 ..\obj\tcpclient.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\tcpclient.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\tcpclient.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\tcpclient.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\tcpclient.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\tcpclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\tcpclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\tcpclient.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\tcpclient.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\tcpclient.o: ..\LWipAPP\inc\lwipopts.h
@@ -65,3 +65,4 @@
 ..\obj\tcpclient.o: ..\LWip1.4.1\src\include\ipv4\lwip/ip_frag.h
 ..\obj\tcpclient.o: ..\LWip1.4.1\src\include\lwip/tcpip.h
 ..\obj\tcpclient.o: ..\LWip1.4.1\src\include\netif/etharp.h
+..\obj\tcpclient.o: ..\USER\CriticalSeg.h

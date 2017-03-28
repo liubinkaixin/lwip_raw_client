@@ -4,7 +4,7 @@
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\memp.o: ..\LWip1.4.1\arch/cc.h
-..\obj\memp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\memp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/memp.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/memp_std.h
@@ -35,7 +35,7 @@
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/dns.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\netif/ppp_oe.h
 ..\obj\memp.o: ..\USER\CriticalSeg.h
-..\obj\memp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\memp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/memp_std.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/memp_std.h
 ..\obj\memp.o: ..\LWip1.4.1\src\include\lwip/memp_std.h

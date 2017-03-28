@@ -8,6 +8,7 @@
 /*-------------------------------------------------*/
 
 #include "tcpclient.h" 
+#include "CriticalSeg.h"
 
 struct tcp_pcb *tcp_client_pcb;                         //TCP客户端控制块
 u8 connect_flag = 0;                                    //连接状态  0：未连接   1：连接
@@ -86,6 +87,7 @@ void echo_snd(void)
 	if(1 == echo_flag)
 	{
 		echo_flag = 0;
+		OS_ENTER_CRITICAL;	//给echo snd增加原子操作
 		if(ERR_OK == tcp_write(tcp_client_pcb,"www.zkaifa.com\r\n",strlen("www.zkaifa.com\r\n"),1))
 		{
 			printf("zkaifa:ERR_OK\r\n");
@@ -103,6 +105,7 @@ void echo_snd(void)
 		{
 			printf("xuanmikeji:ERR_MEM\r\n");
 		}	
+		OS_EXIT_CRITICAL;
 		//tcp_output(tcp_client_pcb);
 	}
 }

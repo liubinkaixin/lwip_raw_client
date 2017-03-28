@@ -4,7 +4,7 @@
 ..\obj\netif.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\netif.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\netif.o: ..\LWip1.4.1\arch/cc.h
-..\obj\netif.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\netif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\netif.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\netif.o: ..\LWip1.4.1\src\include\lwip/def.h
 ..\obj\netif.o: ..\LWip1.4.1\src\include\ipv4\lwip/ip_addr.h

@@ -4,7 +4,7 @@
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\dhcp.o: ..\LWip1.4.1\arch/cc.h
-..\obj\dhcp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\dhcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\lwip/stats.h
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\lwip/mem.h
@@ -21,4 +21,4 @@
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\ipv4\lwip/autoip.h
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\lwip/dns.h
 ..\obj\dhcp.o: ..\LWip1.4.1\src\include\netif/etharp.h
-..\obj\dhcp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\dhcp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

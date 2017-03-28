@@ -4,7 +4,7 @@
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\pbuf.o: ..\LWip1.4.1\arch/cc.h
-..\obj\pbuf.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\pbuf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/stats.h
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/mem.h
@@ -15,4 +15,4 @@
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/err.h
 ..\obj\pbuf.o: ..\LWip1.4.1\src\include\lwip/sys.h
 ..\obj\pbuf.o: ..\LWip1.4.1\arch/perf.h
-..\obj\pbuf.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\pbuf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

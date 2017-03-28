@@ -3,7 +3,7 @@
 <title>Static Call Graph - [..\OBJ\LWIP_RAW_client_dhcp.axf]</title></head>
 <body><HR>
 <H1>Static Call Graph for image ..\OBJ\LWIP_RAW_client_dhcp.axf</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5040049: Last Updated: Fri Mar 24 07:05:21 2017
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5040049: Last Updated: Tue Mar 28 10:55:29 2017
 <BR><P>
 <H3>Maximum Stack Usage =        456 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -227,6 +227,7 @@ Global Symbols
 <BR>[Calls]<UL><LI><a href="#[85]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ETH_DMAITConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;lwip_periodic_handle
+<LI><a href="#[83]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;echo_snd
 <LI><a href="#[153]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memp_free
 <LI><a href="#[152]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memp_malloc
 </UL>
@@ -237,6 +238,7 @@ Global Symbols
 <BR>[Calls]<UL><LI><a href="#[85]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ETH_DMAITConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;lwip_periodic_handle
+<LI><a href="#[83]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;echo_snd
 <LI><a href="#[153]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memp_free
 <LI><a href="#[152]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memp_malloc
 </UL>
@@ -3003,10 +3005,12 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;lwip_periodic_handle
 </UL>
 
-<P><STRONG><a name="[83]"></a>echo_snd</STRONG> (Thumb, 78 bytes, Stack size 8 bytes, tcpclient.o(.text))
+<P><STRONG><a name="[83]"></a>echo_snd</STRONG> (Thumb, 86 bytes, Stack size 8 bytes, tcpclient.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 304<LI>Call Chain = echo_snd &rArr; tcp_write &rArr; tcp_pbuf_prealloc &rArr; pbuf_alloc &rArr; pbuf_free &rArr; memp_free &rArr; get_idle_memp_tab_num &rArr; __2printf
 </UL>
 <BR>[Calls]<UL><LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;tcp_write
+<LI><a href="#[86]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;STM32_DisableIRQ
+<LI><a href="#[84]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;STM32_EnableIRQ
 <LI><a href="#[7b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
 </UL>
 <BR>[Called By]<UL><LI><a href="#[5c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main

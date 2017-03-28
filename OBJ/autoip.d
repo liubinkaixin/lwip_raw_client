@@ -4,5 +4,5 @@
 ..\obj\autoip.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\autoip.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\autoip.o: ..\LWip1.4.1\arch/cc.h
-..\obj\autoip.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\autoip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\autoip.o: ..\LWip1.4.1\src\include\lwip/opt.h

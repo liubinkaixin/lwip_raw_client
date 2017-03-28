@@ -4,7 +4,7 @@
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\etharp.o: ..\LWip1.4.1\arch/cc.h
-..\obj\etharp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\etharp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\ipv4\lwip/ip_addr.h
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\lwip/def.h
@@ -21,4 +21,4 @@
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\lwip/udp.h
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\ipv4\lwip/autoip.h
 ..\obj\etharp.o: ..\LWip1.4.1\src\include\netif/etharp.h
-..\obj\etharp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\etharp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

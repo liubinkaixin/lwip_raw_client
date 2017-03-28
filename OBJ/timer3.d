@@ -3,9 +3,9 @@
 ..\obj\timer3.o: ..\USER\main.h
 ..\obj\timer3.o: ..\CORE\stm32f4xx.h
 ..\obj\timer3.o: ..\CORE\core_cm4.h
-..\obj\timer3.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\timer3.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\timer3.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\timer3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer3.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\timer3.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\timer3.o: ..\CORE\core_cm4_simd.h
 ..\obj\timer3.o: ..\CORE\system_stm32f4xx.h
 ..\obj\timer3.o: ..\CORE\stm32f4xx_conf.h
@@ -38,8 +38,8 @@
 ..\obj\timer3.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\timer3.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\timer3.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\timer3.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\timer3.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\timer3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\timer3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\timer3.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\timer3.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\timer3.o: ..\LWipAPP\inc\lwipopts.h

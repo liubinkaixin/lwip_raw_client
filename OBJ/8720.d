@@ -3,9 +3,9 @@
 ..\obj\8720.o: ..\USER\main.h
 ..\obj\8720.o: ..\CORE\stm32f4xx.h
 ..\obj\8720.o: ..\CORE\core_cm4.h
-..\obj\8720.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\8720.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\8720.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\8720.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\8720.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\8720.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\8720.o: ..\CORE\core_cm4_simd.h
 ..\obj\8720.o: ..\CORE\system_stm32f4xx.h
 ..\obj\8720.o: ..\CORE\stm32f4xx_conf.h
@@ -38,8 +38,8 @@
 ..\obj\8720.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\8720.o: ..\ETHLIB\inc\stm32f4x7_eth.h
 ..\obj\8720.o: ..\ETHLIB\inc\stm32f4x7_eth_conf.h
-..\obj\8720.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\8720.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\8720.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\8720.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\8720.o: ..\LWip1.4.1\src\include\lwip/dhcp.h
 ..\obj\8720.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\8720.o: ..\LWipAPP\inc\lwipopts.h

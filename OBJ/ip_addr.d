@@ -4,7 +4,7 @@
 ..\obj\ip_addr.o: ..\LWip1.4.1\src\include\lwip/debug.h
 ..\obj\ip_addr.o: ..\LWip1.4.1\src\include\lwip/arch.h
 ..\obj\ip_addr.o: ..\LWip1.4.1\arch/cc.h
-..\obj\ip_addr.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ip_addr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\ip_addr.o: ..\LWip1.4.1\src\include\lwip/opt.h
 ..\obj\ip_addr.o: ..\LWip1.4.1\src\include\ipv4\lwip/ip_addr.h
 ..\obj\ip_addr.o: ..\LWip1.4.1\src\include\lwip/def.h
